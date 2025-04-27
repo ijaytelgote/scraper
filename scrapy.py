@@ -69,7 +69,7 @@ async def main(url):
     model="llama3-70b-8192",
     temperature=0.7,
     max_retries=2,
-    groq_api_key=os.environ["GROQ_API_KEY"]
+    groq_api_key=os.environ["GROQ_API_KEY"])
 
 
 
