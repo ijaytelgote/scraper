@@ -3,3 +3,4 @@ flask
 langchain_core
 playwright 
 nest_asyncio
+html2text
