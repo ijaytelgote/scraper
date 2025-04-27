@@ -1,5 +1,6 @@
-langchain_groq l
-angchain_core
+langchain_groq 
+flask
+langchain_core
 playwright 
 playwright  install
 --upgrade numpy
