@@ -2,7 +2,6 @@ langchain_groq
 flask
 langchain_core
 playwright 
-playwright  install
 --upgrade numpy
 --upgrade pandas
 nest_asyncio
