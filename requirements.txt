@@ -1,0 +1,7 @@
+langchain_groq l
+angchain_core
+playwright 
+playwright  install
+--upgrade numpy
+--upgrade pandas
+nest_asyncio
