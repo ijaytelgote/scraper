@@ -9,6 +9,7 @@ import asyncio
 from typing import List, Optional
 import html2text
 import nest_asyncio
+from custom_package import install_playwright_and_upgrade_packages
 from playwright.async_api import async_playwright
 
 
