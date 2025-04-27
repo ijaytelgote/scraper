@@ -9,8 +9,7 @@ import asyncio
 from typing import List, Optional
 import html2text
 import nest_asyncio
-!pip install --upgrade numpy
-!pip install --upgrade pandas 
+
 !playwright install
 from playwright.async_api import async_playwright
 
