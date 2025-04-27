@@ -10,7 +10,6 @@ from typing import List, Optional
 import html2text
 import nest_asyncio
 
-!playwright install
 from playwright.async_api import async_playwright
 
 
